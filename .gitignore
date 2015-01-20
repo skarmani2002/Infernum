@@ -1,0 +1,9 @@
+vendor
+composer.phar
+config.yml
+websites/default/settings.yml
+websites/default/site.yml
+composer.lock
+cache
+
+*.php~

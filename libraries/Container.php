@@ -140,8 +140,7 @@ class Container
     }
 
     /**
-     * Returns the type of the value.
-     *
+     * Returns the type of the value. data type of variable.
      * @param mixed $value The value
      * @return string
      */
